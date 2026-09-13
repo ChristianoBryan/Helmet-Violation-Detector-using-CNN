@@ -1,10 +1,9 @@
-path: D:/The Projects/Helmet Detector/helmetviolation
+path: D:/The Projects/Helmet Detector/Dataset Indonesia
 
-train: train_balanced/images
+train: train/images
 val: valid/images
 test: test/images
 
-names:
-  0: Plate
-  1: WithHelmet
-  2: WithoutHelmet
+names: 
+  0: WithHelmet
+  1: WithoutHelmet
